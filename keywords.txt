@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For UsrInp
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+UsrInp	KEYWORD1	UsrInp
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+PinSetup	KEYWORD2
+waitTouch	KEYWORD2
+Solid_Border	KEYWORD2
+pager   	KEYWORD2
+draw_BoxButtons	KEYWORD2
+DisplayResult	KEYWORD2
+clicker 	KEYWORD2
+userInput	KEYWORD2
+
+#######################################
+# Non-Constants (LITERAL1)
+#######################################
+
